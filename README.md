@@ -1,0 +1,1 @@
+This project presents a sophisticated database structure designed for an e-commerce application.Employing MongoDB as the NOSQL document based database and MYSQL as its SQL counterpart at the backend, and leveraging the React-Express-Node stack for frontend and server management , the project systematically distributes data between two databases.
